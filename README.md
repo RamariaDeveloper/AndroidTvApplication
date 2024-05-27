@@ -29,7 +29,7 @@ Make sure you have the following installed:
 
 | Title | Screenshot |
 | ----- | ---------- |
-| Screenshot 1 | <img src="https://github.com/RamariaDeveloper/AndroidTvApplication/assets/142702495/94dc4f64-a796-487c-84e4-63ceee324a35" width="1080" height="720"> |
-| Screenshot 2 | <img src="https://github.com/RamariaDeveloper/AndroidTvApplication/assets/142702495/31b91edd-c991-400d-901a-2f7faef28be3" width="1080" height="720"> |
-| Screenshot 3 | <img src="https://github.com/RamariaDeveloper/AndroidTvApplication/assets/142702495/0bfc9d80-b8e9-48b8-b6eb-49b456c1e752" width="1080" height="720"> |
+| Screenshot 1 | <img src="https://github.com/RamariaDeveloper/AndroidTvApplication/assets/142702495/94dc4f64-a796-487c-84e4-63ceee324a35" width="1080" height="700"> |
+| Screenshot 2 | <img src="https://github.com/RamariaDeveloper/AndroidTvApplication/assets/142702495/31b91edd-c991-400d-901a-2f7faef28be3" width="1080" height="700"> |
+| Screenshot 3 | <img src="https://github.com/RamariaDeveloper/AndroidTvApplication/assets/142702495/0bfc9d80-b8e9-48b8-b6eb-49b456c1e752" width="1080" height="700"> |
 
